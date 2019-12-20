@@ -1,0 +1,14 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "write unit test with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Majid Ashraf",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
